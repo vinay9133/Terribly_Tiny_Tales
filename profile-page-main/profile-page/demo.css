@@ -1,0 +1,128 @@
+* {
+    margin: 0px;
+}
+#nav {
+    background-color: black;
+    height: 75px;
+}
+
+#stories{
+    color: azure;
+    position: relative;
+    top: 20px;
+    left: 75px;
+}
+
+#courses{
+    background-color: #cf9a08;
+    height: 30px;
+    position: relative;
+    left: 1250px;
+    top: 20px;
+    border-radius: 10px;
+    box-shadow: 0px;
+}
+
+#pic{
+    height: 500px;
+    width: 1519px;
+}
+#pc{
+    height: 500px;
+    width: 1519px;
+}
+#name{
+    color: black;
+    position: relative;
+    left: 500px;
+   font-size: 25px;
+   background-color: azure;
+   bottom: 200px;
+   left: 300px;
+}
+#profile{
+    background-color: white;
+    /* height: 500px; */
+    
+
+}
+#p1{
+    height: 225px;
+    width: 225px;
+    border-radius: 120px;
+    position: relative;
+    bottom: 40px;
+    left: 40px;
+}
+#followers{
+    
+    position: absolute;
+    top:650px;
+    left:300px;
+    color: #6d6c6a;
+    
+}
+.f{
+    height:25px;
+    width: 50px;
+    border-radius: 5px;
+    border-color: #6d6c6a;
+    font-size: 100%;
+}
+#following{
+    
+    position: absolute;
+    top:650px;
+    left:380px;
+    color: #6d6c6a;
+    
+}
+
+
+#a{
+    position: absolute;
+    top:690px;
+    left:300px;
+    font-size: 15px;
+    color: #6d6c6a;
+    
+
+}
+#b{
+    position: absolute;
+    top:690px;
+    left:380px;
+    font-size: 15px;
+    color: #6d6c6a;
+}
+#c{
+    position: relative;
+    left: 40px;
+    bottom: 30px;
+}
+
+#insta{
+    position: absolute;
+    left:40px;
+}
+.time{
+    position: absolute;
+    left: 1200px;
+}
+
+#post1{
+    height:200px;
+    border-width: 10px;
+
+}
+#post2{
+    height:200px;
+
+}
+#post3{
+    height:200px;
+
+}
+#nopost{
+    font-size: 20px;
+   
